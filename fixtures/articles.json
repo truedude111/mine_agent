@@ -1,0 +1,12 @@
+{
+  "fixture://news/pilbara-lithium-1": {
+    "title": "Pilbara lithium miners keep shipments on schedule",
+    "source": "fixture://news/pilbara-lithium-1",
+    "content": "Pilbara 地区锂矿今日发运按计划执行。港口作业正常，现货可售量没有出现中断。分析人士指出，短期供给仍以既有产能为主，市场关注后续天气与港口排队情况。"
+  },
+  "fixture://news/pilbara-lithium-2": {
+    "title": "Pilbara lithium resource update draws market attention",
+    "source": "fixture://news/pilbara-lithium-2",
+    "content": "一份存放于仓库内的演示储量 PDF 给出了锂的 Indicated 与 Inferred 数据。该材料仅用于审查链路，不代表真实矿权口径。"
+  }
+}

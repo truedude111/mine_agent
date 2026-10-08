@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Pilbara lithium miners keep shipments on schedule",
+    "url": "fixture://news/pilbara-lithium-1",
+    "date": "2026-10-08",
+    "summary": "Pilbara 锂矿企业维持发运节奏，港口库存处于正常区间。",
+    "keywords": ["Pilbara", "lithium", "锂"]
+  },
+  {
+    "title": "Pilbara lithium resource update draws market attention",
+    "url": "fixture://news/pilbara-lithium-2",
+    "date": "2026-10-06",
+    "summary": "矿区公布储量更新，Indicated 与 Inferred 口径同时出现在披露材料中。",
+    "keywords": ["Pilbara", "lithium", "锂", "resource"]
+  }
+]

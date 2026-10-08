@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "mining-news-mcp": {
+      "command": "C:\\path\\to\\project_mine\\.venv\\Scripts\\python.exe",
+      "args": ["-m", "mining_news_mcp"],
+      "cwd": "C:\\path\\to\\project_mine",
+      "env": {
+        "MINING_DATA": "fixture"
+      }
+    },
+    "mineral-pdf-mcp": {
+      "command": "C:\\path\\to\\project_mine\\.venv\\Scripts\\python.exe",
+      "args": ["-m", "mineral_pdf_mcp"],
+      "cwd": "C:\\path\\to\\project_mine",
+      "env": {
+        "MINING_DATA": "fixture"
+      }
+    },
+    "lme-price-mcp": {
+      "command": "C:\\path\\to\\project_mine\\.venv\\Scripts\\python.exe",
+      "args": ["-m", "lme_price_mcp"],
+      "cwd": "C:\\path\\to\\project_mine",
+      "env": {
+        "MINING_DATA": "fixture"
+      }
+    }
+  }
+}

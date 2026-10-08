@@ -1,0 +1,12 @@
+.venv
+.git
+.pytest_cache
+__pycache__
+*.pyc
+.cursor
+mcp-config.json
+*.egg-info
+dist
+build
+docs
+tests

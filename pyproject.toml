@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mining-brief"
+version = "0.1.0"
+description = "矿权日报 Agent 与三个 MCP 服务"
+requires-python = ">=3.11"
+dependencies = [
+  "mcp>=1.2,<2",
+  "langgraph>=0.2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.setuptools]
+packages = ["agent", "mining_news_mcp", "mineral_pdf_mcp", "lme_price_mcp"]
+
+[tool.setuptools.package-dir]
+agent = "agent"
+mining_news_mcp = "services/mining_news_mcp"
+mineral_pdf_mcp = "services/mineral_pdf_mcp"
+lme_price_mcp = "services/lme_price_mcp"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

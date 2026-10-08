@@ -1,0 +1,5 @@
+services:
+  brief:
+    build: .
+    environment:
+      MINING_DATA: fixture

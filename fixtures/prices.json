@@ -1,0 +1,15 @@
+{
+  "lithium": {
+    "source": "fixture://prices/lithium",
+    "currency": "USD",
+    "unit": "t",
+    "points": [
+      {"date": "2026-10-01", "price": "940"},
+      {"date": "2026-10-02", "price": "960"},
+      {"date": "2026-10-03", "price": "955"},
+      {"date": "2026-10-06", "price": "970"},
+      {"date": "2026-10-07", "price": "975"},
+      {"date": "2026-10-08", "price": "980"}
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "pdf_url": "fixtures/pilbara-lithium.pdf",
+  "source": "fixtures/pilbara-lithium.pdf",
+  "resources": [
+    {
+      "category": "Indicated",
+      "commodity": "lithium",
+      "quantity": "12.4",
+      "unit": "Mt",
+      "source": "fixtures/pilbara-lithium.pdf"
+    },
+    {
+      "category": "Inferred",
+      "commodity": "lithium",
+      "quantity": "8.1",
+      "unit": "Mt",
+      "source": "fixtures/pilbara-lithium.pdf"
+    }
+  ]
+}
